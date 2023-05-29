@@ -1,20 +1,26 @@
-# Olá, eu sou Guilherme Coelho 👋
+# 🚀 Olá, sou Guilherme Coelho 👋
 
-## Eu sou um Desenvolvedor de Software, Amante de Café, e um Aprendiz Perpétuo!
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Polygon](https://img.shields.io/badge/-Polygon-999999?style=flat-square&logo=polygon&logoColor=white)
 
-- 🔭 Atualmente estou trabalhando em C# e React
-- 🌱 Estou aprendendo atualmente Polygon
-- 👯 Estou procurando colaborar com outros criadores de conteúdo
-- 🥅 Objetivos de 2023: Contribuir mais para projetos de código aberto
+### 🎯 "Eu sou um Desenvolvedor de Software, Amante de Café, e um Aprendiz Perpétuo!" 🎯
 
-### Conecte-se comigo:
+Aqui está o que estou fazendo e aprendendo:
 
-[<img align="left" alt="Seu Email" width="22px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />](mailto:seuemail@exemplo.com)
-[<img align="left" alt="Seu | LinkedIn" width="22px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linkedin-2668696_1280.png" />](https://linkedin.com/in/guicoelhods)
-[<img align="left" alt="Seu | Instagram" width="22px" src="https://cdn.pixabay.com/photo/2016/11/19/23/18/instagram-1839875_1280.png" />](https://instagram.com/guicoelhods)
+- 🔭 Atualmente estou trabalhando em projetos com **C#** e **React**
+- 🌱 Aprendendo tudo sobre **Polygon** 
+- 👯 Estou procurando colaborar com outros desenvolvedores e criadores de conteúdo
+- 🥅 Objetivos de 2023: Contribuir mais para projetos de código aberto e criar meu próprio jogo
+- 🎮 Fato divertido: Eu sou um grande fã de video games e boardgames!
+
+## Conecte-se comigo:
+[<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://linkedin.com/in/guicoelhods)
+[<img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />](https://instagram.com/guicoelhods)
+[<img align="left" alt="Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:seuemail@exemplo.com)
 <br />
 
-### Linguagens e Ferramentas:
+## Linguagens e Ferramentas que uso e amo:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
@@ -27,8 +33,9 @@
 
 ---
 
-<details>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicoelhods&theme=dracula)
+## 📊 Algumas estatísticas:
 
-</details>
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicoelhods&count_private=true&theme=dracula&hide=issues)](https://github.com/guicoelhods/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicoelhods&theme=dracula&layout=compact)](https://github.com/guicoelhods/github-readme-stats)
 
