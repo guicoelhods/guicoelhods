@@ -8,7 +8,7 @@
 
 ## 🎯 Desenvolvedor de Software | Back-End Developer 
 
-- Trabalhando predominantemente com **C#**
+- Trabalhando predominantemente com **C#** & **Python**
 - Gestão avançada de banco de dados com **SQL**
 - Aprendendo **Polygon** e **Microserviços**
 - Objetivo para 2023: Aumentar a contribuição em projetos de código aberto
