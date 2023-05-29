@@ -28,9 +28,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Guilherme Coelho GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&hide_border=true&theme=dracula" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicoelhods&theme=dracula)
 
 </details>
 
