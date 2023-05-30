@@ -9,7 +9,7 @@
 
 - Predominantly working with **C#** & **Python**
 - Advanced database management using **SQL**
-- Currently learning **Polygon** and **Microservices**
+- Currently learning **Solidty** and **Microservices**
 - 2023 Goal: Increase contribution to open-source projects
 
 ## Contact:
